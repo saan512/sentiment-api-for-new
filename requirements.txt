@@ -1,0 +1,15 @@
+Scrapy
+fastapi==0.78.0
+pydantic==1.9.0
+pyparsing==3.0.9
+PyYAML==6.0
+requests==2.27.1
+tokenizers==0.12.1
+uvicorn==0.17.6
+vaderSentiment
+pandas
+joblib
+mysql
+mysql-connector-python
+scikit-learn
+threaded
